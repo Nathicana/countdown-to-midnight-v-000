@@ -5,5 +5,5 @@ def countdown(number)
      number -= 1
      
      end
-     print "HAPPY NEW YEAR!"
+     
    end
